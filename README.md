@@ -6,3 +6,4 @@ This repository can be used as a guide by someone interested in learning **data 
 2. Create a free Snowflake Account
 3. Upload Bhav Copy data to Snowflake Stage for further processing
 4. Understand Bhav Copy Data
+5. Create a data model
